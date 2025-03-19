@@ -1,5 +1,5 @@
 {
-  "name": "untitled-project",
+  "name": "Contact Manager API backend",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -7,12 +7,11 @@
     "start": "node server.js",
     "dev": "nodemon server.js"
   },
-  "author": "dipen magdani",
+  "author": "Dipen Magdani",
   "license": "MIT",
-  "description": "Just a basic full stack app",
+  "description": "An api for contact manager app",
   "dependencies": {
     "dotenv": "^16.4.7",
-    "express": "^4.21.2",
     "nodemon": "^3.1.9"
   }
 }
